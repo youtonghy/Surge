@@ -27,6 +27,7 @@
 ## Surge导入助手
 
 做了一个捷径，方便各位导入使用。在最上面的文本里面输入证书，运行，在弹出窗口输入你的机场订阅地址，通过我的后端转化成node list，然后导入Surge使用。
+[https://www.icloud.com/shortcuts/e17ee0bd84824e2db1f7e917ba4b7458](https://www.icloud.com/shortcuts/e17ee0bd84824e2db1f7e917ba4b7458)
 
 ## 功能
 
@@ -42,6 +43,6 @@ Github新手，请多多见谅
 
 如果规则或者功能有问题，请联系我修补
 
-个人网站：https://youtonghy.com/
+个人网站：[https://youtonghy.com/](https://youtonghy.com/)
 
-个人频道：https://t.me/ythyx
+个人频道：[https://t.me/ythyx](https://t.me/ythyx)
